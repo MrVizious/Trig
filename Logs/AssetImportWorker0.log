@@ -94,3 +94,245 @@ Received Import Request.
 Start importing Assets/Scenes using Guid(9b21ba44ad94644f1bff4820770b34ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a533145a813c837da96fc2d8b95f4561') in 0.005994 seconds
   Import took 0.012276 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 610.758981 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b84992ca9167a44b684cd308b8a86db') in 0.000798 seconds
+  Import took 0.004739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012948 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b84992ca9167a44b684cd308b8a86db') in 0.000723 seconds
+  Import took 0.004322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.331083 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(bb9df153b11442795ba85a828efc8b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(bb9df153b11442795ba85a828efc8b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '624f7fb96e25d112c4e1f5be4a9887c1') in 0.001159 seconds
+  Import took 0.005203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003611 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(bb9df153b11442795ba85a828efc8b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(bb9df153b11442795ba85a828efc8b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '624f7fb96e25d112c4e1f5be4a9887c1') in 0.001126 seconds
+  Import took 0.004851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.865529 seconds.
+  path: Assets/Animations/Slider
+  artifactKey: Guid(ee0abdda4bcc66b29ab8cd3242689dee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Slider using Guid(ee0abdda4bcc66b29ab8cd3242689dee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ed3f6e514d2a1a9089b7ce574263e7') in 0.001016 seconds
+  Import took 0.004917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000888 seconds.
+  path: Assets/Animations/Slider
+  artifactKey: Guid(ee0abdda4bcc66b29ab8cd3242689dee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Slider using Guid(ee0abdda4bcc66b29ab8cd3242689dee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ed3f6e514d2a1a9089b7ce574263e7') in 0.000941 seconds
+  Import took 0.004531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.750235 seconds.
+  path: Assets/Animations/Slider/Appear.anim
+  artifactKey: Guid(abc70c5f2758a37d089b1a62bc30b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Slider/Appear.anim using Guid(abc70c5f2758a37d089b1a62bc30b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b451cfe179b719dfff7079b15e4018de') in 0.011350 seconds
+  Import took 0.015199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.145090 seconds.
+  path: Assets/Animations/Slider/Preview.anim
+  artifactKey: Guid(32be0a812704232d8a6446583501c35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Slider/Preview.anim using Guid(32be0a812704232d8a6446583501c35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad42b37aeab6fa99a791e15ea04c56a5') in 0.002154 seconds
+  Import took 0.005997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002101 seconds.
+  path: Assets/Animations/Slider/Preview.anim
+  artifactKey: Guid(32be0a812704232d8a6446583501c35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Slider/Preview.anim using Guid(32be0a812704232d8a6446583501c35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad42b37aeab6fa99a791e15ea04c56a5') in 0.001820 seconds
+  Import took 0.005347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 211.662491 seconds.
+  path: Assets/Animations/Slider/MainStage.anim
+  artifactKey: Guid(4a1b1e43bee8ce3baba1c67dbe2b9106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Slider/MainStage.anim using Guid(4a1b1e43bee8ce3baba1c67dbe2b9106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c71d4459898f1d9cadd776e83b134a9') in 0.001528 seconds
+  Import took 0.005382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005830 seconds.
+  path: Assets/Animations/Slider/MainStage.anim
+  artifactKey: Guid(4a1b1e43bee8ce3baba1c67dbe2b9106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Slider/MainStage.anim using Guid(4a1b1e43bee8ce3baba1c67dbe2b9106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c71d4459898f1d9cadd776e83b134a9') in 0.001481 seconds
+  Import took 0.005215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.519004 seconds.
+  path: Assets/Animations/Slider/P1-Position1.anim
+  artifactKey: Guid(20ebe450f69b9450aabfde90a79fcecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Slider/P1-Position1.anim using Guid(20ebe450f69b9450aabfde90a79fcecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6f34e153fd1094fd9dfce93f075a88') in 0.002024 seconds
+  Import took 0.005863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002201 seconds.
+  path: Assets/Animations/Slider/P1-Position1.anim
+  artifactKey: Guid(20ebe450f69b9450aabfde90a79fcecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Slider/P1-Position1.anim using Guid(20ebe450f69b9450aabfde90a79fcecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6f34e153fd1094fd9dfce93f075a88') in 0.001973 seconds
+  Import took 0.005661 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001769 seconds.
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 39.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.996 seconds
+Registering precompiled user dll's ...
+Registered in 0.057545 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.936 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 44.1 MB.
+System memory in use after: 44.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2222.
+Total: 4.605455 ms (FindLiveObjects: 0.496095 ms CreateObjectMapping: 0.122847 ms MarkObjects: 3.808599 ms  DeleteObjects: 0.175969 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001570 seconds.
+Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.938 seconds
+Registering precompiled user dll's ...
+Registered in 0.055714 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.939 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 44.2 MB.
+System memory in use after: 44.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2227.
+Total: 3.479947 ms (FindLiveObjects: 0.430058 ms CreateObjectMapping: 0.085584 ms MarkObjects: 2.827890 ms  DeleteObjects: 0.134925 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 380.835031 seconds.
+  path: Assets/Animations/Slider/Appear.anim
+  artifactKey: Guid(abc70c5f2758a37d089b1a62bc30b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Slider/Appear.anim using Guid(abc70c5f2758a37d089b1a62bc30b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55bb5ec2568490cd20d26e4fdfe0665') in 0.010766 seconds
+  Import took 0.014892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Animations/Slider/MainStage.anim
+  artifactKey: Guid(4a1b1e43bee8ce3baba1c67dbe2b9106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Slider/MainStage.anim using Guid(4a1b1e43bee8ce3baba1c67dbe2b9106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4766615c09f97518f65737736fb22dad') in 0.001707 seconds
+  Import took 0.005097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Animations/Slider/SliderAnimationController.controller
+  artifactKey: Guid(28446c3c53c677fc2b431809e0e8aa18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Slider/SliderAnimationController.controller using Guid(28446c3c53c677fc2b431809e0e8aa18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1581e58fa26532f77ac4e7fda8825e6d') in 0.003599 seconds
+  Import took 0.006706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Animations/Slider/Preview.anim
+  artifactKey: Guid(32be0a812704232d8a6446583501c35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Slider/Preview.anim using Guid(32be0a812704232d8a6446583501c35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d74a60c03ff900bf91146f739221842') in 0.001602 seconds
+  Import took 0.004822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Animations/Slider/P1-Position1.anim
+  artifactKey: Guid(20ebe450f69b9450aabfde90a79fcecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Slider/P1-Position1.anim using Guid(20ebe450f69b9450aabfde90a79fcecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbfb148270d4be854645c1f432754207') in 0.001534 seconds
+  Import took 0.004549 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
