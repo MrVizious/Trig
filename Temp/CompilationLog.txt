@@ -1,0 +1,64 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e395a036c17ef08f0a9c1cf56d2df373
+# Starting compiling UnityEngine.UI.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6aebdc6046e8d7182afd4a0d20e04c91
+# Starting compiling UnityEditor.TestRunner.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-21bb7927a8514ff19908b59ee2736d0d
+# Starting compiling UnityEditor.UI.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d09465f182751b0afa05fd59dba61d4f
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b0b4269581f504377b5237c168028836
+# Starting compiling Unity.VSCode.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fe509f8277720395bbbefecd0fc614ef
+# Starting compiling Unity.2D.PixelPerfect.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-aa8d77e1c8f44a6c094d7b56a3214609
+# Starting compiling Unity.2D.Tilemap.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-41a367039bbca44d4b6928f0cf0a7cfb
+# Starting compiling PsdPlugin.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a8b80ee3ce8957cb0ac8b57a7f819152
+# Starting compiling Unity.VisualStudio.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-50b7f9f12e23d3f09a1887471f1fb499
+# Starting compiling Unity.Timeline.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e86f8ed73f174ab97aad56b2382676de
+# Starting compiling Unity.TextMeshPro.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-725a107dddd729f6aa4212a6710248cb
+# Starting compiling Unity.2D.Sprite.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d3286766bb766fa9bb40199f68708846
+# Starting compiling Unity.2D.Path.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0460d36b3846fdf9f9b1e1eede58e8ac
+# Starting compiling Unity.Rider.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-af59fd49e900040faaf3c9ee93e63805
+# Starting compiling Unity.Mathematics.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6915b983be2ef28cba7f347cc1bbafc8
+# Starting compiling Unity.2D.IK.Runtime.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4fc5f0e6463d089d09f90a103e6ebd85
+# Starting compiling Unity.2D.Animation.Triangle.Runtime.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0f9f72c43e813e390994ab69ad941d11
+# Starting compiling Unity.2D.PixelPerfect.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-96ada4263c2f5e9e6a4d35dafc7c7563
+# Starting compiling Unity.Timeline.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-efacaf208835f44c38d5e87f2459f6f7
+# Starting compiling Unity.CollabProxy.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b6d061ba298db751bbffe909f6da8539
+# Starting compiling Unity.2D.Common.Runtime.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a379e3887e17a43429d3e44212fdb227
+# Starting compiling Unity.InternalAPIEditorBridge.001.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-91110de0d6c950e129496fb4a9898076
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bb51ed9e91a1a0bdea353a42823dc470
+# Starting compiling Unity.2D.Common.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7bd662e18b667759b9f617bae8c35cac
+# Starting compiling Unity.2D.Animation.Runtime.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4bbb3a7ee534fc9cb86e4e9e576962a0
+# Starting compiling Unity.Mathematics.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e92f2a0f76a84c34aaceadd8ad65173b
+# Starting compiling Unity.2D.SpriteShape.Runtime.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-82470a4596b5053359a51b96ff61f405
+# Starting compiling Unity.2D.Animation.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ae929170371b326b09035a5557c257d7
+# Starting compiling Unity.2D.SpriteShape.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-84c0de3bf6b9ee8129b01b465759370b
+# Starting compiling Unity.2D.IK.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f70472b679b9e7701b9eb7be6d11f87c
+# Starting compiling Unity.2D.Psdimporter.Editor.dll
+/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0e59af69b860ba56eaf5ba15ce5f51ee
