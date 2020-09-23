@@ -13,11 +13,11 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-45091
+38523
 Successfully changed project path to: /home/mrvizious/Data/Unity/Projects/Trig
 /home/mrvizious/Data/Unity/Projects/Trig
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 49.16 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 39.12 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0b2 (90b2443a8df1)
 [Subsystems] Discovering subsystems at path /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Resources/UnitySubsystems
@@ -36,262 +36,190 @@ XT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate
 EXT_window_rectangles GL_EXT_x11_sync_object GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_command_list GL_NV_compute_program5 GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_float_buffer GL_NV_fog_dista
 nce GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rec
 tangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vdpau_interop GL_NV_vdpau_interop2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NVX_conditional_render GL_NV_gpu_multicast GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
-OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 339885016
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle -1145512392
 Initialize mono
 Mono path[0] = '/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/Managed'
 Mono path[1] = '/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56822
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56156
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001785 seconds.
+Registered in 0.001692 seconds.
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 37.47 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 35.77 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.163 seconds
+- Completed reload, in  0.979 seconds
 Registering precompiled user dll's ...
-Registered in 0.058850 seconds.
+Registered in 0.054717 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 57.92 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 40.32 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.084 seconds
+- Completed reload, in  0.886 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
-Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1778 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 78.9 MB.
-System memory in use after: 78.9 MB.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.8 MB.
+System memory in use after: 80.8 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2217.
-Total: 3.440298 ms (FindLiveObjects: 0.732376 ms CreateObjectMapping: 0.086776 ms MarkObjects: 2.394006 ms  DeleteObjects: 0.224955 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Sprites/Slider/slider.png
-  artifactKey: Guid(c1a8c8ce474fb1c1595ad9810ec0ca20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Slider/slider.png using Guid(c1a8c8ce474fb1c1595ad9810ec0ca20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbea254d1c4de9ee630f63ce1153c7e0') in 0.093568 seconds
-  Import took 0.098848 seconds .
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2236.
+Total: 4.397792 ms (FindLiveObjects: 0.466606 ms CreateObjectMapping: 0.120029 ms MarkObjects: 3.474056 ms  DeleteObjects: 0.335297 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.042449 seconds.
-  path: Assets/Sprites/Slider/slider.png
-  artifactKey: Guid(c1a8c8ce474fb1c1595ad9810ec0ca20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Slider/slider.png using Guid(c1a8c8ce474fb1c1595ad9810ec0ca20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbea254d1c4de9ee630f63ce1153c7e0') in 0.005499 seconds
-  Import took 0.011909 seconds .
+  path: Assets/Scripts/Slider/CurrentValueScript.cs
+  artifactKey: Guid(1ba0f914754712e758a5fa427e5c1509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slider/CurrentValueScript.cs using Guid(1ba0f914754712e758a5fa427e5c1509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae355b9e691fd09352426b61069ae49b') in 0.005850 seconds
+  Import took 0.012168 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 15.177995 seconds.
-  path: Assets/Sprites/Slider/slider.png
-  artifactKey: Guid(c1a8c8ce474fb1c1595ad9810ec0ca20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Slider/slider.png using Guid(c1a8c8ce474fb1c1595ad9810ec0ca20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462c9d7722792fb7db2346965d4c77ea') in 0.004521 seconds
-  Import took 0.008568 seconds .
+  Time since last request: 771.794191 seconds.
+  path: Assets/Scripts/Slider/SliderScript.cs
+  artifactKey: Guid(4828caa7fd6d58d949b05ddbd9a1fc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slider/SliderScript.cs using Guid(4828caa7fd6d58d949b05ddbd9a1fc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0abcd7424e4c54d312a327d4569a3e4e') in 0.000946 seconds
+  Import took 0.004990 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.020375 seconds.
-  path: Assets/Sprites/Slider/slider.png
-  artifactKey: Guid(c1a8c8ce474fb1c1595ad9810ec0ca20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Slider/slider.png using Guid(c1a8c8ce474fb1c1595ad9810ec0ca20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462c9d7722792fb7db2346965d4c77ea') in 0.005489 seconds
-  Import took 0.010337 seconds .
+  Time since last request: 1822.209229 seconds.
+  path: Assets/Scripts/Slider/CurrentValueScript.cs
+  artifactKey: Guid(1ba0f914754712e758a5fa427e5c1509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slider/CurrentValueScript.cs using Guid(1ba0f914754712e758a5fa427e5c1509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e7f3dd6f534d10e2af7a7656654be36') in 0.000863 seconds
+  Import took 0.004872 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.447262 seconds.
-  path: Assets/Sprites/Slider/operation_buttons.png
-  artifactKey: Guid(0e9c98c83c0575d15a2ed669f1262729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Slider/operation_buttons.png using Guid(0e9c98c83c0575d15a2ed669f1262729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecaffc3a5e163fbf1912d59583b14664') in 0.010314 seconds
-  Import took 0.014319 seconds .
+  Time since last request: 0.000226 seconds.
+  path: Assets/Scripts/Slider/SliderScript.cs
+  artifactKey: Guid(4828caa7fd6d58d949b05ddbd9a1fc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slider/SliderScript.cs using Guid(4828caa7fd6d58d949b05ddbd9a1fc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4158380f8b8b56c77b8f3242490b3dc3') in 0.000715 seconds
+  Import took 0.003879 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.012029 seconds.
-  path: Assets/Sprites/Slider/operation_buttons.png
-  artifactKey: Guid(0e9c98c83c0575d15a2ed669f1262729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Slider/operation_buttons.png using Guid(0e9c98c83c0575d15a2ed669f1262729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecaffc3a5e163fbf1912d59583b14664') in 0.016102 seconds
-  Import took 0.020999 seconds .
+  Time since last request: 1269.219386 seconds.
+  path: Assets/Scripts/Slider/ArrowScript.cs
+  artifactKey: Guid(7a6df916d367c88f685842e8fa56bab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slider/ArrowScript.cs using Guid(7a6df916d367c88f685842e8fa56bab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eac45bb3615f96b577f4680316d830e') in 0.000734 seconds
+  Import took 0.004823 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.211333 seconds.
-  path: Assets/Sprites/Slider/arrow.png
-  artifactKey: Guid(6326760157f64323c8067b03ef974d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Slider/arrow.png using Guid(6326760157f64323c8067b03ef974d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4c58ae63d9337ab2dfb65f483b5ac0') in 0.004680 seconds
-  Import took 0.008688 seconds .
+  Time since last request: 0.000190 seconds.
+  path: Assets/Scripts/Slider/CurrentValueScript.cs
+  artifactKey: Guid(1ba0f914754712e758a5fa427e5c1509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slider/CurrentValueScript.cs using Guid(1ba0f914754712e758a5fa427e5c1509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a403a1716ffd3ab2ae4f6d85c07b18') in 0.000757 seconds
+  Import took 0.004300 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.022651 seconds.
-  path: Assets/Sprites/Slider/arrow.png
-  artifactKey: Guid(6326760157f64323c8067b03ef974d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Slider/arrow.png using Guid(6326760157f64323c8067b03ef974d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4c58ae63d9337ab2dfb65f483b5ac0') in 0.005513 seconds
-  Import took 0.010553 seconds .
+  Time since last request: 0.000231 seconds.
+  path: Assets/Scripts/Slider/SliderScript.cs
+  artifactKey: Guid(4828caa7fd6d58d949b05ddbd9a1fc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slider/SliderScript.cs using Guid(4828caa7fd6d58d949b05ddbd9a1fc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55a714899a1387a39ee1ab5158cc2c4e') in 0.000891 seconds
+  Import took 0.004417 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.464887 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Copy@3x.png
-  artifactKey: Guid(55ad4b6109677be42b239f450ce98c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Copy@3x.png using Guid(55ad4b6109677be42b239f450ce98c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e353c33f2638abb1d4e8b8901c1243af') in 0.019870 seconds
-  Import took 0.024352 seconds .
+  Time since last request: 9.224613 seconds.
+  path: Assets/Scripts/ExtensionMethods
+  artifactKey: Guid(920dab906b4bc05b18282339ac86697a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ExtensionMethods using Guid(920dab906b4bc05b18282339ac86697a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b222435a430020f62380ca73f562b5c') in 0.001303 seconds
+  Import took 0.005658 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000417 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Copy@4x.png
-  artifactKey: Guid(b6a96c7c65795c94abf54a62adbf5c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Copy@4x.png using Guid(b6a96c7c65795c94abf54a62adbf5c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903731ff5102fa9bc47910f199bf5e13') in 0.009351 seconds
-  Import took 0.013529 seconds .
+  Time since last request: 0.014443 seconds.
+  path: Assets/Scripts/ExtensionMethods
+  artifactKey: Guid(920dab906b4bc05b18282339ac86697a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ExtensionMethods using Guid(920dab906b4bc05b18282339ac86697a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b222435a430020f62380ca73f562b5c') in 0.000904 seconds
+  Import took 0.004623 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.665953 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Copy@4x.png
-  artifactKey: Guid(5430b5412bcac5b4986be0a875a5e978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Copy@4x.png using Guid(5430b5412bcac5b4986be0a875a5e978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd925020bf48c44203bb3e85d197080') in 0.011752 seconds
-  Import took 0.017204 seconds .
+  Time since last request: 15.221449 seconds.
+  path: Assets/Scripts/ExtensionMethods/ExtensionMethods.cs
+  artifactKey: Guid(e75cae7881333cf4cb07dd469c155272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ExtensionMethods/ExtensionMethods.cs using Guid(e75cae7881333cf4cb07dd469c155272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'effee4a28a9f34b6be687d58f5547b03') in 0.001180 seconds
+  Import took 0.005229 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000283 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Create Bones.png
-  artifactKey: Guid(0e5ae7fe3a07e88429a3e90897c6ab82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Create Bones.png using Guid(0e5ae7fe3a07e88429a3e90897c6ab82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdbab769dd71bed1e521c33c8188eb0a') in 0.011891 seconds
-  Import took 0.017465 seconds .
+  Time since last request: 107.108939 seconds.
+  path: Assets/Scripts/ExtensionMethods/ExtensionMethods.cs
+  artifactKey: Guid(e75cae7881333cf4cb07dd469c155272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ExtensionMethods/ExtensionMethods.cs using Guid(e75cae7881333cf4cb07dd469c155272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6679d6ecd570555cbea317e2054f699a') in 0.000671 seconds
+  Import took 0.004574 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.470713 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Create Bones.png
-  artifactKey: Guid(7b86a539750e1a44ca7ec5b7f690babd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Create Bones.png using Guid(7b86a539750e1a44ca7ec5b7f690babd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0981d190623360bba2e3005a6ef4a1d8') in 0.016349 seconds
-  Import took 0.023228 seconds .
+  Time since last request: 0.012912 seconds.
+  path: Assets/Scripts/ExtensionMethods/ExtensionMethods.cs
+  artifactKey: Guid(e75cae7881333cf4cb07dd469c155272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ExtensionMethods/ExtensionMethods.cs using Guid(e75cae7881333cf4cb07dd469c155272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6679d6ecd570555cbea317e2054f699a') in 0.000688 seconds
+  Import took 0.004417 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Create Bones@2x.png
-  artifactKey: Guid(5b7f664b515582d458717c354f6be292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Create Bones@2x.png using Guid(5b7f664b515582d458717c354f6be292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18bb9435ebec1f24a7692f638fec0713') in 0.011925 seconds
-  Import took 0.015717 seconds .
+  Time since last request: 99.913045 seconds.
+  path: Assets/Scripts/Slider/ArrowScript.cs
+  artifactKey: Guid(7a6df916d367c88f685842e8fa56bab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slider/ArrowScript.cs using Guid(7a6df916d367c88f685842e8fa56bab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f606223c90c78da6a78750069a4bfbfb') in 0.000781 seconds
+  Import took 0.004998 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.265534 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Create Bones@2x.png
-  artifactKey: Guid(03976b6af3289c0409a55e2c4eab4087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Create Bones@2x.png using Guid(03976b6af3289c0409a55e2c4eab4087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc9ae7572d595fa8db9bf9269e6ab95b') in 0.013900 seconds
-  Import took 0.018186 seconds .
+  Time since last request: 0.012823 seconds.
+  path: Assets/Scripts/Slider/ArrowScript.cs
+  artifactKey: Guid(7a6df916d367c88f685842e8fa56bab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slider/ArrowScript.cs using Guid(7a6df916d367c88f685842e8fa56bab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f606223c90c78da6a78750069a4bfbfb') in 0.000742 seconds
+  Import took 0.004814 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000287 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Create Bones@3x.png
-  artifactKey: Guid(803b0b9bfc1fd824aae8423bfbab83b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Create Bones@3x.png using Guid(803b0b9bfc1fd824aae8423bfbab83b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb7cb5ba69383e9be6d1394771a36cd') in 0.011509 seconds
-  Import took 0.015147 seconds .
+  Time since last request: 73.244724 seconds.
+  path: Assets/Scripts/Slider/ArrowScript.cs
+  artifactKey: Guid(7a6df916d367c88f685842e8fa56bab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slider/ArrowScript.cs using Guid(7a6df916d367c88f685842e8fa56bab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a68c8aaac458bbf8d3a0da870771ff47') in 0.000959 seconds
+  Import took 0.005711 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.494428 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Bone.png
-  artifactKey: Guid(62ce01ddca719d34ea9648c586a7cc94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Bone.png using Guid(62ce01ddca719d34ea9648c586a7cc94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd098a47fc4c3ef38b76562ad6a74bc5f') in 0.023976 seconds
-  Import took 0.028825 seconds .
+  Time since last request: 286.183877 seconds.
+  path: Assets/Scripts/Slider/SliderScript.cs
+  artifactKey: Guid(4828caa7fd6d58d949b05ddbd9a1fc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slider/SliderScript.cs using Guid(4828caa7fd6d58d949b05ddbd9a1fc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2f58fb3abd048098527c03bb57abaed') in 0.000749 seconds
+  Import took 0.004648 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000301 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Bone@3x.png
-  artifactKey: Guid(76beef9fdae7b48468ddf07d0400a374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Bone@3x.png using Guid(76beef9fdae7b48468ddf07d0400a374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a1121b7bf398242261c8cef57edf607') in 0.012000 seconds
-  Import took 0.017454 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000439 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Bone_Influence.png
-  artifactKey: Guid(ff00345da0563d641903c5bd5bb748a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Bone_Influence.png using Guid(ff00345da0563d641903c5bd5bb748a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8386fcd90693720fb85453cc2e741ac6') in 0.009635 seconds
-  Import took 0.014461 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Bone_Influence.png
-  artifactKey: Guid(e92fc44f12c21dd44a49e390f39f7ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Bone_Influence.png using Guid(e92fc44f12c21dd44a49e390f39f7ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2037602e11c543a2cca2a9a02e7b47e6') in 0.013043 seconds
-  Import took 0.016882 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000329 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Bone@4x.png
-  artifactKey: Guid(9125c204f566db048a92ebcb64d9d14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Bone@4x.png using Guid(9125c204f566db048a92ebcb64d9d14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25da6afdf07695d05d3ac31262fca8ae') in 0.014643 seconds
-  Import took 0.020718 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000186 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Bone@2x.png
-  artifactKey: Guid(d6a44ab95b0def041a7929981a2c23a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Bone@2x.png using Guid(d6a44ab95b0def041a7929981a2c23a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d5750fb14a7fd7a71597092f2d67db3') in 0.022010 seconds
-  Import took 0.025596 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.668866 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Bone_Influence@2x.png
-  artifactKey: Guid(7395bf0bc3cc40e4ab2dda5ec6832261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Bone_Influence@2x.png using Guid(7395bf0bc3cc40e4ab2dda5ec6832261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '759174db58fcbd5652e2e8288207dd4b') in 0.006184 seconds
-  Import took 0.011658 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000407 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Bone_Influence@2x.png
-  artifactKey: Guid(0779ad3feec52124e97114bcbb12ef13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Bone_Influence@2x.png using Guid(0779ad3feec52124e97114bcbb12ef13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9d209ed0558e551ac248e5ae058ac6f') in 0.010694 seconds
-  Import took 0.014149 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1656.748498 seconds.
-  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
-  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5da52155bcc8ace6969c10071809663d') in 0.055396 seconds
-  Import took 0.059435 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 929.850888 seconds.
-  path: Assets/TextMesh Pro
-  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c279ddd667f8ddca05a122137ba4b6b6') in 0.001002 seconds
-  Import took 0.006057 seconds .
+  Time since last request: 0.012352 seconds.
+  path: Assets/Scripts/Slider/ArrowScript.cs
+  artifactKey: Guid(7a6df916d367c88f685842e8fa56bab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slider/ArrowScript.cs using Guid(7a6df916d367c88f685842e8fa56bab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ca790c81642906ce71be7b64e0d6e2') in 0.000734 seconds
+  Import took 0.004471 seconds .
 
 ========================================================================
 Received Prepare
@@ -301,17 +229,7 @@ Registering precompiled unity dll's ...
 Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001949 seconds.
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+Registered in 0.001592 seconds.
 ./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
 ./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
 ./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
@@ -331,37 +249,37 @@ Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Proj
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 56.86 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 41.21 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.103 seconds
+- Completed reload, in  0.918 seconds
 Registering precompiled user dll's ...
-Registered in 0.059472 seconds.
+Registered in 0.054740 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.993 seconds
+- Completed reload, in  0.855 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 47.4 MB.
-System memory in use after: 47.0 MB.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 45.1 MB.
+System memory in use after: 45.1 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2280.
-Total: 4.179943 ms (FindLiveObjects: 0.466887 ms CreateObjectMapping: 0.096385 ms MarkObjects: 3.123599 ms  DeleteObjects: 0.490631 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2242.
+Total: 4.714996 ms (FindLiveObjects: 0.503648 ms CreateObjectMapping: 0.124354 ms MarkObjects: 3.900156 ms  DeleteObjects: 0.185046 ms)
 
 ========================================================================
 Received Prepare
@@ -371,658 +289,41 @@ Registering precompiled unity dll's ...
 Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001792 seconds.
+Registered in 0.001586 seconds.
 Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 45.62 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 40.44 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.041 seconds
+- Completed reload, in  0.964 seconds
 Registering precompiled user dll's ...
-Registered in 0.061414 seconds.
+Registered in 0.054830 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.030 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 47.6 MB.
-System memory in use after: 47.1 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2285.
-Total: 3.961149 ms (FindLiveObjects: 0.944834 ms CreateObjectMapping: 0.094141 ms MarkObjects: 2.474722 ms  DeleteObjects: 0.443175 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.003217 seconds.
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 47.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.136 seconds
-Registering precompiled user dll's ...
-Registered in 0.072224 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.120 seconds
-Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 47.7 MB.
-System memory in use after: 47.2 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2290.
-Total: 5.022971 ms (FindLiveObjects: 0.464164 ms CreateObjectMapping: 0.090718 ms MarkObjects: 3.854652 ms  DeleteObjects: 0.611399 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001698 seconds.
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 43.96 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.145 seconds
-Registering precompiled user dll's ...
-Registered in 0.059170 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.137 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 47.8 MB.
-System memory in use after: 47.4 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2295.
-Total: 4.952890 ms (FindLiveObjects: 0.998517 ms CreateObjectMapping: 0.163594 ms MarkObjects: 3.320308 ms  DeleteObjects: 0.467798 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001705 seconds.
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 43.84 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.184 seconds
-Registering precompiled user dll's ...
-Registered in 0.063346 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.158 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 47.9 MB.
-System memory in use after: 47.5 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2300.
-Total: 3.911503 ms (FindLiveObjects: 0.471279 ms CreateObjectMapping: 0.089003 ms MarkObjects: 2.861948 ms  DeleteObjects: 0.487915 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001935 seconds.
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 51.61 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.272 seconds
-Registering precompiled user dll's ...
-Registered in 0.070576 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.237 seconds
+- Completed reload, in  0.896 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 48.1 MB.
-System memory in use after: 47.6 MB.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 45.3 MB.
+System memory in use after: 45.4 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2305.
-Total: 3.531816 ms (FindLiveObjects: 0.450109 ms CreateObjectMapping: 0.071168 ms MarkObjects: 2.541144 ms  DeleteObjects: 0.467094 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001712 seconds.
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 46.69 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.325 seconds
-Registering precompiled user dll's ...
-Registered in 0.060847 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.264 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 48.2 MB.
-System memory in use after: 47.7 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2310.
-Total: 3.122277 ms (FindLiveObjects: 0.417759 ms CreateObjectMapping: 0.068590 ms MarkObjects: 2.237461 ms  DeleteObjects: 0.396839 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001617 seconds.
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 46.49 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.375 seconds
-Registering precompiled user dll's ...
-Registered in 0.062417 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.290 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 48.3 MB.
-System memory in use after: 47.8 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2315.
-Total: 3.971474 ms (FindLiveObjects: 0.495698 ms CreateObjectMapping: 0.087095 ms MarkObjects: 2.910646 ms  DeleteObjects: 0.475402 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001700 seconds.
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 53.95 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.404 seconds
-Registering precompiled user dll's ...
-Registered in 0.065517 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.337 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 48.4 MB.
-System memory in use after: 48.0 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2320.
-Total: 5.866485 ms (FindLiveObjects: 0.503366 ms CreateObjectMapping: 0.091452 ms MarkObjects: 4.759465 ms  DeleteObjects: 0.510289 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001678 seconds.
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 46.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.436 seconds
-Registering precompiled user dll's ...
-Registered in 0.062186 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.362 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 48.6 MB.
-System memory in use after: 48.1 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2325.
-Total: 5.146566 ms (FindLiveObjects: 0.452054 ms CreateObjectMapping: 0.072608 ms MarkObjects: 3.975889 ms  DeleteObjects: 0.644126 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001703 seconds.
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 47.01 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.467 seconds
-Registering precompiled user dll's ...
-Registered in 0.067295 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.405 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 48.7 MB.
-System memory in use after: 48.2 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2330.
-Total: 3.916198 ms (FindLiveObjects: 0.673650 ms CreateObjectMapping: 0.088922 ms MarkObjects: 2.704421 ms  DeleteObjects: 0.445939 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001807 seconds.
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 46.94 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.471 seconds
-Registering precompiled user dll's ...
-Registered in 0.063783 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.502 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 48.8 MB.
-System memory in use after: 48.3 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2335.
-Total: 4.194596 ms (FindLiveObjects: 0.513198 ms CreateObjectMapping: 0.097289 ms MarkObjects: 3.071931 ms  DeleteObjects: 0.509971 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001753 seconds.
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 46.46 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.521 seconds
-Registering precompiled user dll's ...
-Registered in 0.077558 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.447 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 48.9 MB.
-System memory in use after: 48.5 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2340.
-Total: 4.800236 ms (FindLiveObjects: 0.844817 ms CreateObjectMapping: 0.102138 ms MarkObjects: 3.338529 ms  DeleteObjects: 0.512711 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001663 seconds.
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 46.19 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.575 seconds
-Registering precompiled user dll's ...
-Registered in 0.062629 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.518 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 49.0 MB.
-System memory in use after: 48.6 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2345.
-Total: 4.157028 ms (FindLiveObjects: 0.516427 ms CreateObjectMapping: 0.072612 ms MarkObjects: 3.042167 ms  DeleteObjects: 0.523733 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/mrvizious/Data/Unity/Editions/2020.2.0b2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001680 seconds.
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 45.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.595 seconds
-Registering precompiled user dll's ...
-Registered in 0.062514 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /home/mrvizious/Data/Unity/Projects/Trig/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.556 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 49.2 MB.
-System memory in use after: 48.7 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2350.
-Total: 4.743574 ms (FindLiveObjects: 0.470637 ms CreateObjectMapping: 0.089678 ms MarkObjects: 3.006349 ms  DeleteObjects: 1.175307 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1550.563682 seconds.
-  path: Assets/Animations/Slider/Appear.anim
-  artifactKey: Guid(abc70c5f2758a37d089b1a62bc30b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Slider/Appear.anim using Guid(abc70c5f2758a37d089b1a62bc30b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88df2022744371ea55f6e679b157a2a5') in 0.015421 seconds
-  Import took 0.019726 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/Animations/Slider/MainStage.anim
-  artifactKey: Guid(4a1b1e43bee8ce3baba1c67dbe2b9106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Slider/MainStage.anim using Guid(4a1b1e43bee8ce3baba1c67dbe2b9106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efe5ebcd4259a3ea59b05f56db650170') in 0.001837 seconds
-  Import took 0.004774 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/Animations/Slider/SliderAnimationController.controller
-  artifactKey: Guid(28446c3c53c677fc2b431809e0e8aa18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Slider/SliderAnimationController.controller using Guid(28446c3c53c677fc2b431809e0e8aa18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ff18f8c3b39764d8233f483a95b6f30') in 0.006955 seconds
-  Import took 0.010382 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/Animations/Slider/Preview.anim
-  artifactKey: Guid(32be0a812704232d8a6446583501c35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Slider/Preview.anim using Guid(32be0a812704232d8a6446583501c35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb628572b0946f3220c12e5053ba91ea') in 0.001945 seconds
-  Import took 0.005460 seconds .
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2247.
+Total: 4.721896 ms (FindLiveObjects: 0.505164 ms CreateObjectMapping: 0.123371 ms MarkObjects: 3.910978 ms  DeleteObjects: 0.180716 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
