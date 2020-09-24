@@ -25,14 +25,18 @@ public class SliderScript : MonoBehaviour {
         int b = Random.Range(MIN_VALUE_CAP, MAX_VALUE_CAP);
 
         if (a == b) {
+            //Debug.Log("Randomizing");
             RandomizeMaxAndMinValues();
         } else if (a > b) {
+            //Debug.Log(a + " is greater than " + b);
             maxValue = a;
             minValue = b;
-        } else {
+        } else if (b > a) {
+            //Debug.Log(b + " is greater than " + a);
             maxValue = b;
-            maxValue = a;
+            minValue = a;
         }
+
     }
 
     public void RandomizeSpeed() {
@@ -69,7 +73,7 @@ public class SliderScript : MonoBehaviour {
 
     private IEnumerator ChangingCurrentValueCoroutine() {
         while (true) {
-            currentValue = (int) (currentValue + (Time.deltaTime * speed * (maxValue - minValue)));
+            currentValue += (int) (Time.deltaTime * speed * (maxValue - minValue));
 
             if (currentValue > maxValue || currentValue < minValue) {
                 speed = -speed;
@@ -78,6 +82,10 @@ public class SliderScript : MonoBehaviour {
             currentValue = Mathf.Clamp(currentValue, minValue, maxValue);
             yield return null;
         }
+    }
+
+    public void AnimationStep() {
+        GetComponent<Animator>().SetTrigger("AnimationStepTrigger");
     }
 
     public float getCurrentValue() {

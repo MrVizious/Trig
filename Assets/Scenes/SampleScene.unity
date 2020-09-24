@@ -679,7 +679,7 @@ GameObject:
   - component: {fileID: 1346339889}
   - component: {fileID: 1346339890}
   m_Layer: 0
-  m_Name: Sprite
+  m_Name: ArrowSprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -853,7 +853,7 @@ GameObject:
   - component: {fileID: 1909703867}
   - component: {fileID: 1909703868}
   m_Layer: 0
-  m_Name: Sprite
+  m_Name: SliderSprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
