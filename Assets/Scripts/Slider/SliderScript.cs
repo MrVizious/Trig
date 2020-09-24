@@ -36,19 +36,34 @@ public class SliderScript : MonoBehaviour {
     }
 
     public void RandomizeSpeed() {
-        speed = Random.Range(-MAX_SPEED, MAX_SPEED);
+        speed = Random.Range((float) - MAX_SPEED, (float)MAX_SPEED);
     }
 
     public void BeginChangingCurrentValue() {
+        Debug.Log("Coroutine for current value change has started!");
+
         if (changingCurrentValueCoroutine == null) {
             changingCurrentValueCoroutine = ChangingCurrentValueCoroutine();
             StartCoroutine(changingCurrentValueCoroutine);
+            transform.GetComponentInChildren<CurrentValueScript>(true).BeginChangingValueDisplayed(this);
+            transform.GetComponentInChildren<ArrowScript>(true).BeginMovingArrow(this);
         }
+
     }
     public void StopChangingCurrentValue() {
         if (changingCurrentValueCoroutine != null) {
             StopCoroutine(changingCurrentValueCoroutine);
             changingCurrentValueCoroutine = null;
+            transform.GetComponentInChildren<CurrentValueScript>().StopChangingValueDisplayed();
+            transform.GetComponentInChildren<ArrowScript>().StopMovingArrow();
+        }
+    }
+
+    public void ToggleChangingCurrentValue() {
+        if (changingCurrentValueCoroutine == null) {
+            BeginChangingCurrentValue();
+        } else {
+            StopChangingCurrentValue();
         }
     }
 

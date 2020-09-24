@@ -29,6 +29,7 @@ public class ArrowScript : MonoBehaviour {
             float relativePositionY = sliderScript.getCurrentValue().Map(sliderScript.getMinValue(),
                                       sliderScript.getMaxValue(), -2, 2);
             transform.localPosition = new Vector2(transform.localPosition.x, relativePositionY);
+            yield return null;
         }
     }
 }
