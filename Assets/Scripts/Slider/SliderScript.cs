@@ -37,10 +37,17 @@ public class SliderScript : MonoBehaviour {
             minValue = a;
         }
 
+        GetComponentInChildren<MaxValueScript>().setValue(maxValue);
+        GetComponentInChildren<MinValueScript>().setValue(minValue);
     }
 
     public void RandomizeSpeed() {
+        Debug.Log("Randomizing speed!");
         speed = Random.Range((float) - MAX_SPEED, (float)MAX_SPEED);
+
+        if (Mathf.Abs(speed) == 0.02f + Mathf.Epsilon) {
+            RandomizeSpeed();
+        }
     }
 
     public void BeginChangingCurrentValue() {
@@ -75,7 +82,7 @@ public class SliderScript : MonoBehaviour {
         while (true) {
             currentValue += (int) (Time.deltaTime * speed * (maxValue - minValue));
 
-            if (currentValue > maxValue || currentValue < minValue) {
+            if (currentValue >= maxValue || currentValue <= minValue) {
                 speed = -speed;
             }
 

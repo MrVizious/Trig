@@ -9,7 +9,7 @@ public class CurrentValueScript : MonoBehaviour {
     private IEnumerator changingValueDisplayedCoroutine;
     private SliderScript sliderScript;
 
-    void Start() {
+    void Awake() {
         text = GetComponent<Text>();
     }
 

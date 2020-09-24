@@ -7,7 +7,7 @@ public class MinValueScript : MonoBehaviour {
 
     private Text text;
 
-    void Start() {
+    void Awake() {
         text = GetComponent<Text>();
     }
 
