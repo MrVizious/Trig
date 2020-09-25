@@ -34,10 +34,32 @@ public class ButtonsAnimationScript : MonoBehaviour {
         } else if (Input.GetButtonUp("X")) {
             ReleaseButton(buttons["Add"]);
         }
+
+        if (Input.GetButtonDown("Circle")) {
+            Debug.Log("Circle pressed!");
+            PressButton(buttons["Substract"]);
+        } else if (Input.GetButtonUp("Circle")) {
+            ReleaseButton(buttons["Substract"]);
+        }
+
+        if (Input.GetButtonDown("Square")) {
+            Debug.Log("Square pressed!");
+            PressButton(buttons["Multiply"]);
+        } else if (Input.GetButtonUp("Square")) {
+            ReleaseButton(buttons["Multiply"]);
+        }
+
+        if (Input.GetButtonDown("Triangle")) {
+            Debug.Log("Triangle pressed!");
+            PressButton(buttons["Divide"]);
+        } else if (Input.GetButtonUp("Triangle")) {
+            ReleaseButton(buttons["Divide"]);
+        }
+
     }
 
     private void PressButton(Transform buttonToPress) {
-        buttonToPress.localPosition = new Vector2(0f, -0.2f);
+        buttonToPress.localPosition = new Vector2(0f, -0.1f);
         buttonToPress.GetComponent<SpriteRenderer>().color = new Color(0.5f, 0.5f, 0.5f, 0.6f);
     }
 

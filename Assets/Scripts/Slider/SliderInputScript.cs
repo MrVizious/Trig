@@ -10,12 +10,5 @@ public class SliderInputScript : MonoBehaviour {
     }
 
     void Update() {
-        if (Input.GetKeyDown(KeyCode.Space)) {
-            sliderScript.ToggleChangingCurrentValue();
-        }
-
-        if (Input.GetButtonDown("Fire1")) {
-            sliderScript.AnimationStep();
-        }
     }
 }
